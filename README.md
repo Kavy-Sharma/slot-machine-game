@@ -1,31 +1,37 @@
-🎰 Slot Machine Game
+# 🎰 Slot Machine Game  
 
+A fun and interactive **text-based slot machine game** built using Python!  
 
+---
 
-📝 Features
-✅ Simulates a slot machine with symbols A, B, C, and D.
-✅ User-friendly interface with colored text.
-✅ Realistic rolling effect before displaying results.
-✅ Deposit and Betting System – players can bet their money.
-✅ Jackpot Feature – Win big when you match all symbols!
-✅ Tracks Player's Balance & Win Streak
+## 📝 Features  
+✅ Simulates a slot machine with symbols **A, B, C, and D**.  
+✅ **User-friendly interface** with colored text effects.  
+✅ **Realistic rolling effect** before displaying results.  
+✅ **Deposit and Betting System** – players can bet their money.  
+✅ **Jackpot Feature** – Win big when you match all symbols!  
+✅ Tracks **Player's Balance & Win Streak**.  
 
-📌 How It Works
-1️⃣ Deposit money to start playing.
-2️⃣ Choose the number of lines to bet on.
-3️⃣ Place your bet for each line.
-4️⃣ The slot machine spins, and you wait for results!
-5️⃣ Win or Lose – Your balance updates accordingly.
+---
 
-💰 Jackpot Rule: If you win on all active lines, you get 10x winnings!
+## 📌 How It Works  
 
-🛠️ Installation
-🔹 Make sure you have Python installed on your computer.
+1️⃣ **Deposit money** to start playing.  
+2️⃣ **Choose the number of lines** to bet on.  
+3️⃣ **Place your bet** for each line.  
+4️⃣ **The slot machine spins**, and you wait for results!  
+5️⃣ **Win or Lose** – Your balance updates accordingly.  
+
+💰 **Jackpot Rule:** If you win on all active lines, you get **10x winnings**!  
+
+---
+
+## 🛠️ Installation  
+
+🔹 Make sure you have **Python installed** on your computer.  
 🔹 Then follow these steps:
 
-bash
-Copy
-Edit
+```bash
 # Clone this repository
 git clone https://github.com/Kavy-Sharma/slot-machine-game.git
 
