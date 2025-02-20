@@ -43,6 +43,7 @@ pip install colorama
 
 # Run the game
 python slot_machine.py
+```
 
 🏗️ Built With
 🔹 Python – Core Programming Language
@@ -61,10 +62,22 @@ python slot_machine.py
 💡 Want to improve this project?
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m "Added a new feature").
-Push to GitHub (git push origin feature-branch).
-Open a Pull Request and I will review it! 🚀
+Create a new branch:
+bash
+Copy
+Edit
+git checkout -b feature-branch
+Make your changes and commit them:
+bash
+Copy
+Edit
+git commit -m "Added a new feature"
+Push to GitHub:
+bash
+Copy
+Edit
+git push origin feature-branch
+Open a Pull Request, and I will review it! 🚀
 📬 Contact Me
 📧 Email: kavysharma196@gmail.com
 🌐 GitHub: Kavy-Sharma
@@ -72,5 +85,4 @@ Open a Pull Request and I will review it! 🚀
 
 ⭐ If you like this project, give it a star! ⭐
 👇 Click the star button on GitHub to show your support!
-
 
