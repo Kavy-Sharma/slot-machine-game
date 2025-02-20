@@ -44,48 +44,52 @@ pip install colorama
 # Run the game
 python slot_machine.py
 ```
+---
 
 ## 🏗️ Built With
+🔹 **Python** – Core Programming Language.  
+🔹 **Colorama** – Adds colored text effects in the terminal.  
+🔹 **Random** – Generates random slot machine results.  
 
-🔹 Python – Core Programming Language
-🔹 Colorama – Adds colored text effects in the terminal
-🔹 Random – Generates random slot machine results
+---
 
 ## 🎯 Future Improvements
+🔹 Add **sound effects** when the slot machine spins 🎵  
+🔹 Introduce more **symbols and betting options** 🎲  
+🔹 Create a **GUI version** using Tkinter or PyQt 🎨  
 
-🔹 Add sound effects when the slot machine spins 🎵
-🔹 Introduce more symbols and betting options 🎲
-🔹 Create a GUI version using Tkinter or PyQt 🎨
+---
 
 ## 📄 License
-
 📜 This project is licensed under the MIT License.
 
+---
+
 ## 🤝 Contributing
-💡 Want to improve this project?
+**💡 Want to improve this project?**  
 
-Fork the repository.
-Create a new branch:
-bash
-Copy
-Edit
+1. **Fork the repository.**  
+2. **Create a new branch:**  
+```bash
 git checkout -b feature-branch
-Make your changes and commit them:
-bash
-Copy
-Edit
+```
+3. **Make your changes and commit them:**  
+```bash
 git commit -m "Added a new feature"
-Push to GitHub:
-bash
-Copy
-Edit
+```
+4. **Push to GitHub:**  
+```bash
 git push origin feature-branch
-Open a Pull Request, and I will review it! 🚀
-# 📬 Contact Me
-# 📧 Email: kavysharma196@gmail.com
-# 🌐 GitHub: Kavy-Sharma
-# 📢 LinkedIn: www.linkedin.com/in/kavysharma
+```
+5. **Open a Pull Request, and I will review it! 🚀**
 
-⭐ If you like this project, give it a star! ⭐
-👇 Click the star button on GitHub to show your support!
+---
+
+## 📬 Contact Me  
+📧 **Email**: kavysharma196@gmail.com  
+🌐 **GitHub**: https://github.com/K-sharma9605  
+📢 **LinkedIn**: www.linkedin.com/in/kavysharma  
+
+## ⭐ If you like this project, give it a star! ⭐
+👇 Click the **star** button on GitHub to show your support!
 
