@@ -45,20 +45,23 @@ pip install colorama
 python slot_machine.py
 ```
 
-🏗️ Built With
+## 🏗️ Built With
+
 🔹 Python – Core Programming Language
 🔹 Colorama – Adds colored text effects in the terminal
 🔹 Random – Generates random slot machine results
 
-🎯 Future Improvements
+## 🎯 Future Improvements
+
 🔹 Add sound effects when the slot machine spins 🎵
 🔹 Introduce more symbols and betting options 🎲
 🔹 Create a GUI version using Tkinter or PyQt 🎨
 
-📄 License
+## 📄 License
+
 📜 This project is licensed under the MIT License.
 
-🤝 Contributing
+## 🤝 Contributing
 💡 Want to improve this project?
 
 Fork the repository.
@@ -78,10 +81,10 @@ Copy
 Edit
 git push origin feature-branch
 Open a Pull Request, and I will review it! 🚀
-📬 Contact Me
-📧 Email: kavysharma196@gmail.com
-🌐 GitHub: Kavy-Sharma
-📢 LinkedIn: www.linkedin.com/in/kavysharma
+# 📬 Contact Me
+# 📧 Email: kavysharma196@gmail.com
+# 🌐 GitHub: Kavy-Sharma
+# 📢 LinkedIn: www.linkedin.com/in/kavysharma
 
 ⭐ If you like this project, give it a star! ⭐
 👇 Click the star button on GitHub to show your support!
