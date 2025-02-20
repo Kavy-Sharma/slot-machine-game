@@ -87,7 +87,7 @@ git push origin feature-branch
 
 ## 📬 Contact Me  
 📧 **Email**: kavysharma196@gmail.com  
-🌐 **GitHub**: https://github.com/K-sharma9605  
+🌐 **GitHub**: https://github.com/Kavy-Sharma  
 📢 **LinkedIn**: www.linkedin.com/in/kavysharma  
 
 ## ⭐ If you like this project, give it a star! ⭐
