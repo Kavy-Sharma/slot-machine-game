@@ -1,6 +1,6 @@
 # 🎰 Slot Machine Game  
 
-A fun and interactive **text-based slot machine game** built using Python!  
+A terminal-based Slot Machine Game built in Python to practice programming fundamentals, logic building, and text-based UI development.  
 
 ---
 
